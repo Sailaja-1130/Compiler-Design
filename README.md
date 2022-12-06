@@ -1,4 +1,4 @@
-# Compiler-Design
+# Compiler-Design-Lab
 
 Experiments List
 
