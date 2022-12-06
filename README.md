@@ -1,6 +1,8 @@
 # Compiler-Design
 
-Experiments List Ex.1 - Lexical Analyzer
+Experiments List
+
+Ex.1 - Lexical Analyzer
 
 Ex.2 - Regular Expression to NFA
 
